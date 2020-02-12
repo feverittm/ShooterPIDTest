@@ -35,6 +35,8 @@
 *.app
 
 ### Java ###
+=======
+>>>>>>> bd1eda8eda4ad5f0deaf3ab62d6c47546257e296
 # Compiled class file
 *.class
 
@@ -58,6 +60,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 ### Linux ###
 *~
@@ -156,6 +159,5 @@ gradle-app.setting
 .settings/
 bin/
 imgui.ini
-
 
 # End of https://www.gitignore.io/api/c++,java,linux,macos,gradle,windows,visualstudiocode
